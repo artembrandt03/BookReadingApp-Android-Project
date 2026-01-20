@@ -40,7 +40,7 @@ All data is stored locally on the device, enabling **offline reading** once book
 - Local storage using Room database  
 - Cover images displayed in the library  
 
-### Search & 🔊 Audio
+### Search & Audio
 - Full-text search across entire books  
 - Contextual search results with surrounding text  
 - Text-to-Speech (TTS) narration  
@@ -117,7 +117,14 @@ On first launch, the app automatically downloads sample books.
 
 ## Media
 
-Screenshots and demo videos of the application are included in the repository  
-or provided separately for presentation and evaluation.
+You can checkout a full demo video over here!
+https://www.youtube.com/watch?v=dwgH2oGBw1E
+
+### Screenshots
+<img width="568" height="1245" alt="bra-proj-ss-1" src="https://github.com/user-attachments/assets/2c7bd8a0-c818-4063-861f-08ba77a1217d" />
+<img width="580" height="1252" alt="bra-proj-ss-2" src="https://github.com/user-attachments/assets/91494228-2f1b-4c08-acb7-26b7c2797a25" />
+<img width="581" height="1255" alt="bra-proj-ss-3" src="https://github.com/user-attachments/assets/df1f2c8b-2489-436e-aea4-625f3ebe82cb" />
+<img width="576" height="1247" alt="bra-proj-ss-4" src="https://github.com/user-attachments/assets/a47ff1a1-9927-419b-b01a-4ecacb2036ad" />
+<img width="587" height="1259" alt="bra-proj-ss-5" src="https://github.com/user-attachments/assets/556ff248-f7cb-4495-9618-c008a11d9d98" />
 
 ---
