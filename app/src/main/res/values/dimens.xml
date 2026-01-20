@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Table of Contents Screen Dimensions -->
+    <dimen name="toc_header_padding">16dp</dimen>
+    <dimen name="toc_item_padding">16dp</dimen>
+    <dimen name="toc_item_spacing">8dp</dimen>
+    <dimen name="toc_chapter_badge_size">56dp</dimen>
+    <dimen name="toc_chapter_badge_padding">8dp</dimen>
+    <dimen name="toc_elevation">2dp</dimen>
+    <dimen name="toc_divider_thickness">1dp</dimen>
+
+    <!-- Reading Screen Dimensions -->
+    <dimen name="reading_content_padding">24dp</dimen>
+
+    <!-- Home Screen Dimensions -->
+    <dimen name="home_logo_size">250dp</dimen>
+    <dimen name="home_book_cover_width">90dp</dimen>
+    <dimen name="home_book_cover_height">120dp</dimen>
+    <dimen name="grid_max_height">400dp</dimen>
+    <dimen name="border_width">2dp</dimen>
+
+
+    <!-- Common Spacing (shared across all screens) -->
+    <dimen name="spacing_tiny">4dp</dimen>
+    <dimen name="spacing_small">8dp</dimen>
+    <dimen name="spacing_medium">12dp</dimen>
+    <dimen name="spacing_default">16dp</dimen>
+    <dimen name="spacing_large">24dp</dimen>
+
+    <!-- Common Corner Radius -->
+    <dimen name="corner_radius_small">4dp</dimen>
+</resources>

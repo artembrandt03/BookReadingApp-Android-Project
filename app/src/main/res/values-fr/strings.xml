@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mobile-Dev-Project</string>
+
+    <!-- Table of Contents Screen -->
+    <string name="toc_title">Table des matières</string>
+    <string name="toc_empty">Aucun livre sélectionné</string>
+    <string name="chapter_number">Chapitre %1$d</string>
+    <string name="tap_for_fullscreen">Appuyez sur l\'écran pour activer/désactiver le mode plein écran</string>
+
+    <!-- Reading Screen -->
+    <string name="reading_title">Lecture</string>
+    <string name="loading_in_progress">Chargement…</string>
+    <string name="loading">Chargement</string>
+    <string name="success">Succès</string>
+    <string name="error">Erreur</string>
+
+    <!-- Search Screen -->
+    <string name="search_label">Rechercher dans ce livre</string>
+    <string name="search_clear">Effacer</string>
+    <string name="search_hint_empty">Tapez pour rechercher dans le livre actuel</string>
+    <string name="search_no_results">Aucun résultat trouvé</string>
+
+    <!-- Home -->
+    <string name="cd_app_logo">Logo de l\'application</string>
+    <string name="home_about">Bienvenue sur BookVoice ! Profitez de la lecture et de l\'écoute de livres classiques gratuits.</string>
+    <string name="home_section_library">Ma bibliothèque</string>
+    <string name="home_add_new_book">Ajouter un nouveau livre</string>
+    <string name="home_last_accessed">Dernière consultation : %1$s</string>
+    <string name="home_never_opened">Jamais ouvert: %1$s</string>
+
+    <!-- HTML Parser -->
+    <string name="parser_front_matter">Préface</string>
+    <string name="parser_full_text">Texte complet</string>
+    <string name="parser_unknown_title">Titre inconnu</string>
+    <string name="parser_unknown_author">Auteur inconnu</string>
+
+    <!-- Download Screen -->
+    <string name="download_title">Télécharger le livre</string>
+    <string name="download_url_label">Entrez l\'URL du livre</string>
+    <string name="download_button">Télécharger</string>
+    <string name="back_to_home">Retour à l\'accueil</string>
+    <string name="https_example_com_book_zip">https://example.com/book.zip</string>
+    <string name="enter_book_url">Entrez l\'URL du livre</string>
+    <string name="download_and_extract_textbooks">Télécharger et extraire les manuels</string>
+    <string name="delete_library">Supprimer la bibliothèque</string>
+    <string name="downloading">Téléchargement</string>
+    <string name="clear">Effacer</string>
+    <!-- Messages de progression -->
+    <string name="progress_starting_downloads">Démarrage des téléchargements…</string>
+    <string name="progress_book_already_in_library">Le livre \'%1$s\' est déjà dans la bibliothèque — ignoré</string>
+    <string name="progress_book_already_exists">Le livre \'%1$s\' existe déjà — ignoré</string>
+    <string name="progress_downloading">Téléchargement de %1$s…</string>
+    <string name="progress_unzipping">Décompression de %1$s…</string>
+    <string name="progress_parsing">Analyse de %1$s…</string>
+    <string name="progress_completed">%1$s terminé</string>
+
+    <!-- Messages d'erreur -->
+    <string name="error_download_failed">Échec du téléchargement de %1$s</string>
+    <string name="error_parse_failed">Échec de l\'analyse de %1$s</string>
+    <string name="error_no_html_found">Aucun fichier HTML trouvé dans %1$s</string>
+    <string name="error_unknown">Erreur : %1$s</string>
+
+    <!-- TTS -->
+    <string name="tts_idle">TTS inactif</string>
+    <string name="preparing">Préparation…</string>
+    <string name="playing">En lecture</string>
+    <string name="paused">En pause</string>
+    <string name="stopped">Arrêté</string>
+    <string name="tts_error">Erreur TTS</string>
+    <string-array name="book_urls">
+        <item>https://www.gutenberg.org/cache/epub/62754/pg62754-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/421/pg421-h.zip</item>
+        <item>https://www.gutenberg.org/cache/epub/132/pg132-h.zip</item>
+    </string-array>
+
+</resources>
